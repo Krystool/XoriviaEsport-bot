@@ -1,0 +1,14 @@
+{
+  "name": "xoriviaesport-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "!test"
+  },
+  "author": "Raidencrystal#0001",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
